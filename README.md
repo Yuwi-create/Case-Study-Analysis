@@ -1,4 +1,4 @@
-# Case-Study-Analysis
+# Case-Study-Analysis (Professional Ethics)
 This repository presents a collection of business case studies where I analyze real-world problems, interpret data, and propose practical, data-driven solutions.
 
 ## Contents
@@ -16,4 +16,3 @@ These materials demonstrate my understanding of various concepts in Information 
 - Algorithmic Accountability & AI Ethics
 - Privacy & Data Governance
 - Emerging Tech & Social Impact
-
